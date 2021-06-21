@@ -13,12 +13,12 @@ Framework7 app created with following options:
 
 ```
 {
-  "cwd": "C:\\Users\\pavilion\\Documents\\ProjectSourceTree\\Kuhu",
+  "cwd": "C:\\Users\\pavilion\\Documents\\ProjectSourceTree\\Mubarak",
   "type": [
     "web",
     "cordova"
   ],
-  "name": "Kuhu",
+  "name": "Mubarak",
   "framework": "core",
   "template": "tabs",
   "bundler": "webpack",

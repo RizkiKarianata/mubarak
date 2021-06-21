@@ -19,7 +19,7 @@ var app = new Framework7({
   root: '#app', // App root element
   component: App, // App main component
   id: 'io.framework7.myapp', // App bundle ID
-  name: 'Kuhu', // App name
+  name: 'Mubarak', // App name
   theme: 'auto', // Automatic theme detection
 
 
